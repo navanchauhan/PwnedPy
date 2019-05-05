@@ -1,4 +1,5 @@
 # PwnedPy
+![PyPI - License](https://img.shields.io/pypi/l/PwnedPy.svg)
 A Python Wrapper for the Have I Been Pwned API
 
 ### Installation
