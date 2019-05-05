@@ -1,6 +1,10 @@
 # PwnedPy
 A Python Wrapper for the Have I Been Pwned API
 
+### Installation
+```
+pip3 install PwnedPy
+```
 ### Initialisation
 ```
 import PwnedPy
